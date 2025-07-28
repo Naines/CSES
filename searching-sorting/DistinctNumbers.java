@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
-public class test
+public class DistinctNumbers
 {
     static void solve(int arr[], int n){
         Map<Integer, Integer> map =new HashMap<>();
